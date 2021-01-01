@@ -11,6 +11,7 @@ It's an attempt to start getting familiar with these tools and get a deeper unde
 - [iovisor.org](https://www.iovisor.org/)
 
 # Tools
+- [60 Second Analysis Docs](/tools/60-second-analysis/README.md)
 
 ## Disk I/O
 - bitehist - shows the size of disk I/O as a histogram.
